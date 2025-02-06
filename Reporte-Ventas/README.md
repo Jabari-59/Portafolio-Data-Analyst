@@ -1,4 +1,5 @@
 # Reporte Ventas 🔝💲
-![alt text](image.png)
+![alt text](DashBoard.png)
+![alt text](KPI.png)
 -
 ## Contexto del Reporte
