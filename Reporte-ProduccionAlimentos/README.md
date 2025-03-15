@@ -1,4 +1,4 @@
 # Reporte Produccion Alimentos Peru
-- ![alt text][imgDashboard-Alimentos.png]
+![alt text](imgDashboard-Alimentos.png)
 ## Contexto del Reporte 
 - 
